@@ -6,8 +6,6 @@ This application predicts the likelihood of survival for passengers aboard the T
 
 The app provides an intuitive interface for users to input passenger details and receive instant predictions with probability scores. Additionally, it showcases insightful visualizations about survival patterns based on different passenger attributes.
 
-![Titanic Survival Prediction App](https://github.com/username/titanic-survival-prediction/raw/main/screenshots/app_screenshot.png)
-
 ## ⚙️ Requirements
 
 To run this application, you'll need the following Python packages:
@@ -78,20 +76,6 @@ Try the app live on Streamlit Cloud:
 - 👥 Implement user accounts to save and compare multiple predictions
 - 📱 Create a mobile-optimized version
 
-## 📸 Output Screenshots
-
-### 🖥️ Prediction Interface
-![Prediction Interface](https://github.com/username/titanic-survival-prediction/raw/main/screenshots/prediction_interface.png)
-
-### 📊 Results with Probability
-![Results with Probability](https://github.com/username/titanic-survival-prediction/raw/main/screenshots/results_probability.png)
-
-### 📈 Survival Rate Visualizations
-![Survival Rate Visualizations](https://github.com/username/titanic-survival-prediction/raw/main/screenshots/visualizations.png)
-
-## 📄 License
-
-MIT License
 
 ## 🙏 Acknowledgments
 
