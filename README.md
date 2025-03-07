@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### 📂 Clone the Repository
 
 ```bash
-git clone https://github.com/username/titanic-survival-prediction.git
+git clone https://github.com/Venu419/Logistic-Regression.git
 cd titanic-survival-prediction
 ```
 
