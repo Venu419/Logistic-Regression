@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/Venu419/Logistic-Regression.git
-cd titanic-survival-prediction
+cd Logistic-Regression
 ```
 
 ### 📥 Install Dependencies
